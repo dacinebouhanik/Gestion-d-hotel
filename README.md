@@ -72,7 +72,7 @@ Visualisation du projet/Fenetre_gestionsejour.jpeg
 
 ##  Gestion des Séjours
 <p align="center">
-  <img src="Visualisation du projet/Fenetre_gestionsejour.jpeg" width="900"/>
+  <img src="visualisation du projet/gestion des séjours.jpeg" width="900"/>
 </p>
 
 ---
