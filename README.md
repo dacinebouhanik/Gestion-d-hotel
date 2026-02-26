@@ -65,7 +65,7 @@ Visualisation du projet/Fenetre_gestionsejour.jpeg
 
 ## Gestion des Réservations
 <p align="center">
-  <img src="Visualisation du projet/Fenetre_gestionreservation.jpeg" width="900"/>
+  <img src="visualisation du projet/gestion des réservations.jpeg" width="900"/>
 </p>
 
 ---
