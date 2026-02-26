@@ -16,10 +16,9 @@ Le projet est structuré selon le modèle MVC :
 - `vue` : interface utilisateur
 - `controller` : gestion des interactions
 
-## 🛠 Technologies utilisées
+##  Technologies utilisées
 
 - Java
-- IntelliJ IDEA
 - Programmation Orientée Objet (POO)
 - Architecture MVC
 
@@ -38,3 +37,58 @@ src/
 ├── model/
 └── vue/
 ```
+
+---
+
+# 📸 Aperçu de l'application
+
+##  Fenetre gestion clients
+<p align="center">
+  <img src="Visualisation du projet/Fenetre_gestionclient.jpeg" width="900"/>
+</p>
+
+---
+
+##  Gestion des Chambres
+<p align="center">
+  <img src="Visualisation du projet/Fenetre_gestionchambre.jpeg" width="900"/>
+</p>
+
+---
+
+##  Gestion des Employés
+<p align="center">
+  <img src="Visualisation du projet/Fenetre_gestionemployés.jpeg" width="900"/>
+</p>
+Visualisation du projet/Fenetre_gestionsejour.jpeg
+---
+
+## Gestion des Réservations
+<p align="center">
+  <img src="Visualisation du projet/Fenetre_gestionreservation.jpeg" width="900"/>
+</p>
+
+---
+
+##  Gestion des Séjours
+<p align="center">
+  <img src="Visualisation du projet/Fenetre_gestionsejour.jpeg" width="900"/>
+</p>
+
+---
+
+##  Gestion des Ménages
+<p align="center">
+  <img src="Visualisation du projet/Fenetre_gestionmenage.jpeg" width="900"/>
+</p>
+
+---
+
+##  Objectif pédagogique
+
+Ce projet a été réalisé afin de :
+
+- Maîtriser la conception orientée objet
+- Mettre en place une architecture MVC propre
+- Structurer un projet Java professionnel
+- Développer une interface graphique complète
