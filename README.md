@@ -58,7 +58,7 @@ src/
 
 ##  Gestion des Employés
 <p align="center">
-  <img src="Visualisation du projet/Fenetre_gestionemployés.jpeg" width="900"/>
+  <img src="visualisation du projet/gestion des employés.jpeg" width="900"/>
 </p>
 Visualisation du projet/Fenetre_gestionsejour.jpeg
 ---
