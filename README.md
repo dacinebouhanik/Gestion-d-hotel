@@ -79,7 +79,7 @@ Visualisation du projet/Fenetre_gestionsejour.jpeg
 
 ##  Gestion des Ménages
 <p align="center">
-  <img src="Visualisation du projet/Fenetre_gestionmenage.jpeg" width="900"/>
+  <img src="visualisation du projet/gestion des menages.jpeg" width="900"/>
 </p>
 
 ---
